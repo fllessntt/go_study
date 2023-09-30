@@ -1,7 +1,7 @@
 package main
 
-import "go_study/study"
+import "go_study/ws"
 
 func main() {
-	study.TestInterface()
+	ws.GuessByPost("mm")
 }
