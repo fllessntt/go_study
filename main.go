@@ -1,7 +1,7 @@
 package main
 
-import "awesomeProject/study"
+import "go_study/study"
 
 func main() {
-	println(study.Factorial(5))
+	study.TestInterface()
 }
